@@ -1,4 +1,4 @@
-https://github.com/tscharke/caesar-cipher/workflows/Tests/badge.svg
+![](https://github.com/tscharke/caesar-cipher/workflows/Tests/badge.svg)
 
 # Motivation
 
