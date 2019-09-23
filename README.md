@@ -1,13 +1,16 @@
+https://github.com/tscharke/caesar-cipher/workflows/Tests/badge.svg
+
 # Motivation
 
 In [EarthToJavascript-Slack](http://earthtojavascript.slack.com) the following question
-was asked and I found the tasks exciting and this is my first approach and thus the
-first possible solution.
+was asked and I found the tasks exciting and this is my approach and thus a possible solution.
 
-## Tasks
+# Description
 
 ROT13 is a simple letter substitution cipher that replaces a letter with the letter 13
 letters after it in the alphabet. ROT13 is an example of the Caesar cipher.
+
+## Tasks
 
 Create a function that takes a string and returns the string ciphered with Rot13. If there're
 numbers or special characters included in the string, they should be returned as they are.
@@ -38,4 +41,4 @@ yarn install && yarn test
 - [ ] Take upper and lower cases
 - [ ] Simplify the function and avoid creating a shift cipher before (e.g. using RegEx instead 🤔)
 
-Looking forward to any feedback and PRs 🙏
+Looking forward to any feedback, reviews and PRs 🙏
